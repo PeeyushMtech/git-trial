@@ -1,2 +1,1 @@
 # git-trial
-# Added directly
